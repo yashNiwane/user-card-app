@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/user-card-app/static/css/main.181b5ffd.css",
+    "main.js": "/user-card-app/static/js/main.ceb493b3.js",
+    "static/js/787.b3e8da8d.chunk.js": "/user-card-app/static/js/787.b3e8da8d.chunk.js",
+    "index.html": "/user-card-app/index.html",
+    "main.181b5ffd.css.map": "/user-card-app/static/css/main.181b5ffd.css.map",
+    "main.ceb493b3.js.map": "/user-card-app/static/js/main.ceb493b3.js.map",
+    "787.b3e8da8d.chunk.js.map": "/user-card-app/static/js/787.b3e8da8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.181b5ffd.css",
+    "static/js/main.ceb493b3.js"
+  ]
+}
